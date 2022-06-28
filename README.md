@@ -8,7 +8,7 @@
 -----
 
 ## CONTACT ME ON
-<a href='https://github.com/cruz-gaming' target="_blank"><img alt='Github' src='https://img.shields.io/badge/cruz-gaming-100000?style=social&logo=Github&logoColor=010818&labelColor=black&color=black'/></a>
+<a href='https://github.com/cruz-gaming' target="_blank"><img alt='Github' src='https://img.shields.io/badge/-cruz gaming-100000?style=social&logo=Github&logoColor=010818&labelColor=black&color=black'/></a>
 <a href='https://youtube.com/channel/UCw70Izn4pj_V8s_AZE5aj9A' target="_blank"><img alt='YouTube' src='https://img.shields.io/badge/Cruzgaming-100000?style=social&logo=YouTube&logoColor=ED1F14&labelColor=C2D3D0&color=13CAE7'/></a>
 <a href='https://discord.com/channels/@me/610513919601279005' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/cruzgaming-100000?style=social&logo=Discord&logoColor=1A54D3&labelColor=black&color=black'/></a>
 <a href='https://cruzgaming.ml/' target="_blank"><img alt='StackShare' src='https://img.shields.io/badge/Cruz Gaming-100000?style=social&logo=StackShare&logoColor=3F9AD3&labelColor=7F3C3C&color=623D3D'/></a>
