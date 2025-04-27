@@ -42,6 +42,10 @@ ___
 </tbody>
 </table>
 
+
+-  **My Streak**
+   <img src="https://nirzak-streak-stats.vercel.app/?user=cruz-gaming&theme=radical&hide_border=true" height="160px" alt="GitHub Streak" />
+
 - **Web Development**
 <table>
 <tbody>
