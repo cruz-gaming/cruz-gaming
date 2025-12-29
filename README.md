@@ -1,7 +1,5 @@
 <!-- GIF Header -->
-<p align="center">
-  <img src="https://i.imgur.com/zFq3gGJ.gif" alt="Header GIF" width="100%" />
-</p>
+
 
 <h1 align="center">👋 Hi, I'm <span style="color:#F70000;">Sreevisakh</span></h1>
 <p align="center">
